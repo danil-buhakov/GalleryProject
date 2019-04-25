@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GalleryProject</string>
+    <string name="need_permission">Приложению нужно разрешение чтоб выбрать фото</string>
+    <string name="open_from_gallery">Открыть из галереи</string>
+</resources>
